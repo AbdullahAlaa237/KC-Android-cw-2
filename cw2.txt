@@ -1,0 +1,52 @@
+
+public class Main {
+
+    public static void main(String[] args)    {
+
+  //class work 1
+    
+        String name = "Abdullah";
+        
+        int age = 15; 
+        
+        
+       System.out.println(" Hi My Name IS " + name + "And i am " + age );
+        
+        
+      
+        //class work 2
+        
+        
+        int height = 180;
+        
+        if (
+            
+ height > 160
+ 
+            
+            
+        
+        
+            ) 
+            
+            {   System.out.println("you can enter" );  }  
+            
+            
+            
+            else 
+    
+
+  {   System.out.println("you cant enter" );  } 
+    
+    
+      }   
+        
+       
+
+
+    
+}
+
+
+
+
